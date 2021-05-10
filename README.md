@@ -19,7 +19,7 @@ var polyline = L.polyline([[20.8338559371212,  -99.783853949970251],	[20.8257405
 
 ### Al ejecutar en tu navegador deberías tener algo como esto.
 
-![screenshot](https://raw.githubusercontent.com/sampach95/Puntos/master/img/lineas.png )
+![screenshot](https://raw.githubusercontent.com/sampach95/Lineas/master/img/lineas.png )
 
 
 Haz click en el siguiente enlace para volver a la pagina inicial
